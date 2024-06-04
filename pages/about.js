@@ -8,14 +8,14 @@ export default function About() {
                     About Alpha Corp.
                 </p>
                 <div>
-                <a
+                <Link
                     href="#"
                     target="_blank"
                     rel="noopener noreferrer"
                 >
                     Power By{' '}
                     Helios
-                </a>
+                </Link>
                 </div>
             </div>
 
